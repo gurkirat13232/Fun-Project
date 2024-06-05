@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Live2-Script",
+  "version": "1.0.0",
+  "description": "A Chrome extension for live2 demo.",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["tabs"]
+  
+}
